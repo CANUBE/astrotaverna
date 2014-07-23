@@ -4,12 +4,12 @@
 	<parent>
 		<groupId>org.purl.wf4ever.astrotaverna</groupId>
 		<artifactId>astrotaverna</artifactId>
-		<version>1.11-SNAPSHOT</version>
+		<version>1.13</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<artifactId>coordinatestool-activity-ui</artifactId>
 	<name>Coordinates Taverna activity UI bindings</name>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>

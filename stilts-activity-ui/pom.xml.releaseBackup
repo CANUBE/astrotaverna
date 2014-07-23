@@ -4,17 +4,17 @@
 	<parent>
 		<groupId>org.purl.wf4ever.astrotaverna</groupId>
 		<artifactId>astrotaverna</artifactId>
-		<version>1.14-SNAPSHOT</version>
+		<version>1.12-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
-	<artifactId>Image-activity-ui</artifactId>
-  <version>1.14-SNAPSHOT</version>
-	<name>Image utilities suite UI bindings</name>
+	<artifactId>stilts-activity-ui</artifactId>
+  <version>1.12-SNAPSHOT</version>
+	<name>Stilts utilities suite UI bindings</name>
 
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>
-			<artifactId>Image-activity</artifactId>
+			<artifactId>stilts-activity</artifactId>
 			<version>${project.version}</version>
 		</dependency>
 		<dependency>

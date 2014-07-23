@@ -4,7 +4,7 @@
 
 	<groupId>org.purl.wf4ever.astrotaverna</groupId>
 	<artifactId>astrotaverna</artifactId>
-	<version>1.14-SNAPSHOT</version>
+	<version>1.12-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Astro Taverna</name>
 
@@ -42,7 +42,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<version>2.4.2</version>
 				<configuration>
-					<username>git</username>
+					<username>rmorcilloFidesol</username>
 				    
 				</configuration>
 			
@@ -108,7 +108,7 @@
 			</snapshots>
 			<id>mygrid-repository</id>
 			<name>myGrid Repository</name>
-			<url>http://repository.mygrid.org.uk/artifactory/libs-release</url>
+			<url>http://www.mygrid.org.uk/maven/repository</url>
 		</repository>
 		<repository>
 			<!-- The repository that your snapshot jars are deployed to -->
@@ -116,29 +116,15 @@
 			<snapshots />
 			<id>astrotaverna</id>
 			<name>AstroTaverna repository</name>
-			<url>https://github.com/CANUBE/astrotaverna/</url>
+			<url>http://CANUBE.github.com/astrotaverna/</url>
 		</repository>
+	</repositories>
 
-		<repository>
-			<!-- The repository that your snapshot jars are deployed to -->
-			<releases />
-			<snapshots />
-			<id>astrotavernaJulian</id>
-			<name>Alpha AstroTaverna repository</name>
-			<url>http://julian-garrido.github.com/astrotaverna/</url>
-			</repository>
-		</repositories>
-
-		<pluginRepositories>
-			<pluginRepository>
-				<id>mygrid-repository</id>
-				<name>myGrid Repository</name>
-				<url>http://www.mygrid.org.uk/maven/repository</url>
-			</pluginRepository>
+	<pluginRepositories>
 		<pluginRepository>
-			<id>starLinkRepository </id>
-			<name>starLink </name>
-			<url>http://www.astrogrid.org/maven/docsTempSchema/javaapp</url>
+			<id>mygrid-repository</id>
+			<name>myGrid Repository</name>
+			<url>http://www.mygrid.org.uk/maven/repository</url>
 		</pluginRepository>
 	</pluginRepositories>
 
