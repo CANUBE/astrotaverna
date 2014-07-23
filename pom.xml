@@ -4,7 +4,7 @@
 
 	<groupId>org.purl.wf4ever.astrotaverna</groupId>
 	<artifactId>astrotaverna</artifactId>
-	<version>1.14-SNAPSHOT</version>
+	<version>1.15-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Astro Taverna</name>
 
@@ -147,13 +147,13 @@
 		<repository>
 			<id>astrotaverna</id>
 			<name>AstroTaverna repository</name>
-            <url>file:///home/rmorcillo/astrotaverna-gh/astrotaverna/</url>
+            <url>file:///home/robermorji/astrotaverna-gh/astrotaverna/</url>
             <!-- <url>file:///${user.home}/git/repository/astrotaverna-gh/</url> -->
 		</repository>
 		<snapshotRepository>
 			<id>astrotaverna</id>
 			<name>AstroTaverna repository</name>
-            <url>file:///home/rmorcillo/astrotaverna-gh/astrotaverna/</url>
+            <url>file:///home/robermorji/astrotaverna-gh/astrotaverna/</url>
             <!-- <url>file:///${user.home}/git/repository/astrotaverna-gh/</url> -->
 		</snapshotRepository>
 	</distributionManagement>
