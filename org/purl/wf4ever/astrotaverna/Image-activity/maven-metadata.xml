@@ -3,14 +3,9 @@
   <groupId>org.purl.wf4ever.astrotaverna</groupId>
   <artifactId>Image-activity</artifactId>
   <versioning>
-    <release>1.08</release>
     <versions>
-      <version>1.03</version>
-      <version>1.05</version>
-      <version>1.06</version>
-      <version>1.07</version>
-      <version>1.08</version>
+      <version>1.15-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130708130715</lastUpdated>
+    <lastUpdated>20140723103345</lastUpdated>
   </versioning>
 </metadata>

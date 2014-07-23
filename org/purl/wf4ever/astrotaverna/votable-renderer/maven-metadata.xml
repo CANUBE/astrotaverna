@@ -3,23 +3,9 @@
   <groupId>org.purl.wf4ever.astrotaverna</groupId>
   <artifactId>votable-renderer</artifactId>
   <versioning>
-    <release>1.08</release>
     <versions>
-      <version>0.5</version>
-      <version>0.6.1</version>
-      <version>0.6.3</version>
-      <version>0.7</version>
-      <version>0.8</version>
-      <version>0.9</version>
-      <version>1.00</version>
-      <version>1.01</version>
-      <version>1.02</version>
-      <version>1.03</version>
-      <version>1.05</version>
-      <version>1.06</version>
-      <version>1.07</version>
-      <version>1.08</version>
+      <version>1.15-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130708130622</lastUpdated>
+    <lastUpdated>20140723103227</lastUpdated>
   </versioning>
 </metadata>
